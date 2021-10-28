@@ -26,6 +26,12 @@ public class Principale {
 		int a = 5, b = 2;
 		
 		System.out.println((double) a / b);
+		/***
+		   Commentaire d'ajout du fichier Git
+		*/
+
+		System.out.println("Ajout effectué dans git");
+
 	}
 
 }
